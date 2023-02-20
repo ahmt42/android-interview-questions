@@ -4,3 +4,6 @@
 
 ## Android
 - Components of Android application [(answer)](https://github.com/ahmt42/android-interview-questions/issues/1)
+- What is an activity?
+- What is a service in Android?
+- Differentiate Activities from Services.
