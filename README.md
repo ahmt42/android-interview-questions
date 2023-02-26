@@ -7,4 +7,7 @@
 - What is an activity? [(answer)](https://github.com/ahmt42/android-interview-questions/issues/2)
 - What is a service in Android? [(answer)](https://github.com/ahmt42/android-interview-questions/issues/3#issue-1597438523)
 - Differentiate Activities from Services. [(answer)](https://github.com/ahmt42/android-interview-questions/issues/4#issue-1599806514)
+- What is the use of Bundle in Android?
+- What is an Adapter in Android?
+- What is AAPT?
 
