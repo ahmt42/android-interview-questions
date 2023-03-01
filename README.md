@@ -4,6 +4,7 @@
 
 ## Android
 - What is Application? [(answer)](https://github.com/ahmt42/android-interview-questions/issues/7#issue-1605396977)
+- What is Context? [(answer)](https://github.com/ahmt42/android-interview-questions/issues/8#issue-1605397760)
 - Components of Android application [(answer)](https://github.com/ahmt42/android-interview-questions/issues/1)
 - What is an activity? [(answer)](https://github.com/ahmt42/android-interview-questions/issues/2)
 - What is a service in Android? [(answer)](https://github.com/ahmt42/android-interview-questions/issues/3#issue-1597438523)
