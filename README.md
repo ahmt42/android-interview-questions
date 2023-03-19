@@ -12,4 +12,4 @@
 - What is the use of Bundle in Android? [(answer)](https://github.com/ahmt42/android-interview-questions/issues/5#issue-1601886343)
 - What is an Adapter in Android? [(answer)](https://github.com/ahmt42/android-interview-questions/issues/6#issue-1603751110)
 - What is AAPT?
-
+- Explain the build process in Android.
