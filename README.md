@@ -13,3 +13,4 @@
 - What is an Adapter in Android? [(answer)](https://github.com/ahmt42/android-interview-questions/issues/6#issue-1603751110)
 - What is AAPT?
 - Explain the build process in Android.
+- Explain the term ANR.
