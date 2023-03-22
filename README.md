@@ -14,4 +14,4 @@
 - Explain the build process in Android. [(answer)](https://github.com/ahmt42/android-interview-questions/issues/9#issue-1630817284)
 - Explain the term ANR. [(answer)](https://github.com/ahmt42/android-interview-questions/issues/10#issue-1632840378)
 - What is an activity? [(answer)](https://github.com/ahmt42/android-interview-questions/issues/2)
-- What is the lifecycle of an Activity in Android?
+- What is the lifecycle of an Activity in Android? [(answer)](https://github.com/ahmt42/android-interview-questions/issues/12#issue-1636488514)
